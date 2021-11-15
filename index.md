@@ -2,13 +2,26 @@
 ### [Teaching](https://ziyangzhu.github.io/Teaching/)
 ## Lecture Notes
 Here are my lecture notes. They may have some mistakes, if you find them, please email me!
-- [Representation Theory I: Representation Theory of Finite Groups](https://files.cnblogs.com/files/zhuziyangcnu/%E6%9C%89%E9%99%90%E7%BE%A4%E7%9A%84%E5%A4%8D%E8%A1%A8%E7%A4%BA%E8%AE%BA%E6%A6%82%E8%A7%88%E2%80%94%E2%80%94%E8%A1%A8%E7%A4%BA%E8%AE%BA%E4%B8%93%E9%A2%98I(2020.08.25).pdf) (In Chinese). This note aims to introduce the representation theory of finite groups, including unitary representation, character theory, Fourier transform, Burnside theorem, induced representations, etc. It can be read on the basis of linear algebra and abstract algebra, but it may be a little boring to read. _Update: August 25, 2020_.
-- [Algebraic Number Theory I: Galois Theory](https://files.cnblogs.com/files/zhuziyangcnu/Galois%E7%90%86%E8%AE%BA%E2%80%94%E2%80%94%E4%BB%A3%E6%95%B0%E6%95%B0%E8%AE%BA%E4%B8%93%E9%A2%98I(2020.08.25).pdf) (In Chinese). This is a note to introduce Galois theory, including polynomial theory, the fundamental theorem and its application, infinite Galois expansion and transcendental expansion. Basic knowledge of abstract algebra and topology can be read. _Update: August 25, 2020_
-- [Algebraic Number Theory II: The Arithmetic of Elliptic Curves](https://files.cnblogs.com/files/zhuziyangcnu/%E6%A4%AD%E5%9C%86%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%AE%97%E6%9C%AF%E2%80%94%E2%80%94%E4%BB%A3%E6%95%B0%E6%95%B0%E8%AE%BA%E4%B8%93%E9%A2%98II(2021.06.22).pdf) (In Chinese). This note is the special introduction of Riemannian surfaces and complex geometry,  It does not involve proof, but mainly introduces the concept of elliptic curve, modular form, Mordell theorem, B-SD conjecture and other basic contents. _Update: June 22, 2021_
-- [Algebraic Number Theory III: Tate's Thesis](https://files.cnblogs.com/files/zhuziyangcnu/Tate.pdf) (In Chinese). This is the lecture note of the course "arithmetic geometry" at CNU, 2021. The main contents include locally compact topological groups and their representation theory, abstract harmonic analysis, Fourier transformation and Gelfand transformation, Pontryagin duality and Poisson summation formula, profinite group, Adele and idele, Tate's thesis , modular forms, Galois representation and automorphic forms, etc. _Update: 2021.11.06_
-- [Algebraic Number Theory VI: Arithmetic Dynamics](https://files.cnblogs.com/files/zhuziyangcnu/%E7%AE%97%E6%9C%AF%E5%8A%A8%E5%8A%9B%E7%B3%BB%E7%BB%9F.pdf) (In Chinese). Dynamical system is a subject that studies the iteration by means of statistics, it also has connections to number theory. This note is roughly composed of four topics: ergodic theory, Oppenheim conjecture, entropy and geometric topology of moduli spaces. This is the lecture note of the course "Dynamic Systems" at CNU, 2021.
-- [Introduction to Real Analysis](https://files.cnblogs.com/files/zhuziyangcnu/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B(2021.06.22).pdf) (In Chinese). This is a note on real variable function. It originated from the final exam of real variable function course in a wild chicken university in Nanjing. It briefly and clearly introduces the elementary theory of real analysis. _Update: June 22, 2021_
 
+#### The following notes are written in Chinese.
+
+##### **[Representation Theory I: The Case of Finite Groups](https://github.com/ZiyangZhu/Notes/files/7538488/RTFG.pdf)**
+This note aims to introduce the representation theory of finite groups, including unitary representation, character theory, Fourier transform, Burnside theorem, induced representations, etc. It can be read on the basis of linear algebra and abstract algebra, but it may be a little boring to read. _Update: August 25, 2020_.
+
+##### **[Algebraic Number Theory I: Galois Theory](https://github.com/ZiyangZhu/Notes/files/7538510/Galois.pdf)**
+This is a note to introduce Galois theory, including polynomial theory, the fundamental theorem and its application, infinite Galois expansion and transcendental expansion. Basic knowledge of abstract algebra and topology can be read. _Update: August 25, 2020_
+
+##### **[Algebraic Number Theory II: The Arithmetic of Elliptic Curves](https://github.com/ZiyangZhu/Notes/files/7538520/EC.pdf)**
+This note is the special introduction of Riemannian surfaces and complex geometry,  It does not involve proof, but mainly introduces the concept of elliptic curve, modular form, Mordell theorem, B-SD conjecture and other basic contents. _Update: June 22, 2021_
+
+##### **[Algebraic Number Theory III: Tate's Thesis](https://github.com/ZiyangZhu/Notes/files/7538531/Tate.pdf)**
+This is the lecture note of the course "arithmetic geometry" at CNU, 2021. The main contents include locally compact topological groups and their representation theory, abstract harmonic analysis, Fourier transformation and Gelfand transformation, Pontryagin duality and Poisson summation formula, profinite group, Adele and idele, Tate's thesis , modular forms, Galois representation and automorphic forms, etc. _Update: 2021.11.06_
+
+##### **[Algebraic Number Theory VI: Arithmetic Dynamics](https://github.com/ZiyangZhu/Notes/files/7538546/default.pdf)**
+Dynamical system is a subject that studies the iteration by means of statistics, it also has connections to number theory. This note is roughly composed of four topics: ergodic theory, Oppenheim conjecture, entropy and geometric topology of moduli spaces. This is the lecture note of the course "Dynamic Systems" at CNU, 2021.
+
+##### **[Introduction to Real Analysis](https://github.com/ZiyangZhu/Notes/files/7538541/RA.pdf)**
+This is a note on real variable function. It originated from the final exam of real variable function course in a wild chicken university in Nanjing. It briefly and clearly introduces the elementary theory of real analysis. _Update: June 22, 2021_
 
 ### [Works](https://ziyangzhu.github.io/Works/)
 ### [Useful links](https://ziyangzhu.github.io/Links/)
