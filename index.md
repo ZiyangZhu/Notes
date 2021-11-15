@@ -21,7 +21,7 @@ This is the lecture note of the course "arithmetic geometry" at CNU, 2021. The m
 Dynamical system is a subject that studies the iteration by means of statistics, it also connects to the number theory. This note consists of four topics: ergodic theory, Oppenheim conjecture, entropies and geometric topology of moduli spaces. This is the lecture note of the course "Dynamical Systems" at CNU, 2021.
 
 ##### **[Introduction to Real Analysis](https://github.com/ZiyangZhu/Notes/files/7538541/RA.pdf)**
-This is a note on real variable functions. It originated from the final exam of the course in a trade school in Nanjing. It introduces the elementary theory of real analysis briefly. _Update: June 22, 2021_
+This is a note on real variable functions. It originated from the final exam of the course in a diploma mill in Nanjing. It introduces the elementary theory of real analysis briefly. _Update: June 22, 2021_
 
 ### [Works](https://ziyangzhu.github.io/Works/)
 ### [Useful links](https://ziyangzhu.github.io/Links/)
