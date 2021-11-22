@@ -15,7 +15,7 @@ This is a note to introduce Galois theory, including polynomial theory, the fund
 This note is the special introduction of "Riemann Surfaces",  it does not involve proof, but mainly introduces the concept of elliptic curves, modular forms, Mordell theorem, B-SD conjecture and other basic contents.
 
 ##### **[Algebraic Number Theory III: Tate's Thesis](https://github.com/ZiyangZhu/Notes/files/7538531/Tate.pdf)** _Update: November 06, 2021_
-This is the lecture note of the course "Arithmetic Geometry" at CNU, 2021. The main contents include locally compact groups and their representation theory, abstract harmonic analysis, Fourier transformation and Gelfand transformation, Pontryagin duality and Poisson summation formula, profinite groups, adeles and ideles, Tate's thesis , modular forms, Galois representations and automorphic forms, etc.
+This is the lecture note of the course "Arithmetic Geometry" at CNU, 2021. The main contents include locally compact groups and their representation theory, abstract harmonic analysis, Fourier transformation and Gelfand transformation, Pontryagin duality and Poisson summation formula, profinite groups, adeles and ideles, Tate's thesis, modular forms, Galois representations and automorphic forms, etc.
 
 ##### **[Algebraic Number Theory VI: Arithmetic Dynamics](https://github.com/ZiyangZhu/Notes/files/7538546/default.pdf)** _Update: November 13, 2021_
 Dynamical system is a subject that studies the iteration by means of statistics, it also connects to the number theory. This note consists of four topics: ergodic theory, Oppenheim conjecture, entropies and geometric topology of moduli spaces. This is the lecture note of the course "Dynamical Systems" at CNU, 2021.
