@@ -24,4 +24,4 @@ Dynamical system is a subject that studies the iteration by means of statistics,
 This is a note on real variable functions. It originated from the final exam of the course in a diploma mill in Nanjing. It introduces the elementary theory of real analysis briefly.
 
 ### [Works](https://ziyangzhu.github.io/Works/)
-### [Useful links](https://ziyangzhu.github.io/Links/)
+### [Useful Links](https://ziyangzhu.github.io/Links/)
