@@ -1,7 +1,7 @@
 ### [Home](https://ziyangzhu.github.io/Home/)
 ### [Teaching](https://ziyangzhu.github.io/Teaching/)
 ## Lecture Notes
-Here are my lecture notes. They may have some mistakes, if you find them, please email me!
+Here are my notes. They may have some mistakes, if you find them, please email me!
 
 #### The following notes are written in Chinese.
 
@@ -14,7 +14,7 @@ This is a note to introduce Galois theory, including polynomial theory, the fund
 ##### **[Algebraic Number Theory II: The Arithmetic of Elliptic Curves](https://github.com/ZiyangZhu/Notes/files/7538520/EC.pdf)** _Update: June 22, 2021_
 This note is the special introduction of "Riemann Surfaces",  it does not involve proof, but mainly introduces the concept of elliptic curves, modular forms, Mordell theorem, B-SD conjecture and other basic contents.
 
-##### **[Algebraic Number Theory III: Tate's Thesis](https://github.com/ZiyangZhu/Notes/files/7698514/Tate.pdf)** _Update: December 12, 2021_
+##### **[Algebraic Number Theory III: Tate's Thesis](https://github.com/ZiyangZhu/Notes/files/7701655/Tate.pdf)** _Update: December 13, 2021_
 This is the lecture note of the course "Arithmetic Geometry" at CNU, 2021. The main contents include locally compact groups and their representation theory, abstract harmonic analysis, Fourier transformation and Gelfand transformation, Pontryagin duality and Poisson summation formula, profinite groups, adeles and ideles, Tate's thesis, etc.
 
 ##### **[Algebraic Number Theory VI: Arithmetic Dynamics](https://github.com/ZiyangZhu/Notes/files/7701460/DS.pdf)** _Update: December 13, 2021_
