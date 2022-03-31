@@ -17,10 +17,10 @@ This note is the special introduction of "Riemann Surfaces",  it does not involv
 ##### **[Algebraic Number Theory III: Tate's Thesis](https://github.com/ZiyangZhu/Notes/files/7701655/Tate.pdf)** _Update: December 13, 2021_
 This is the lecture note of the course "Arithmetic Geometry" at CNU, 2021. The main contents include locally compact groups and their representation theory, abstract harmonic analysis, Fourier transformation and Gelfand transformation, Pontryagin duality and Poisson summation formula, profinite groups, adeles and ideles, Tate's thesis, etc.
 
-##### **[Algebraic Number Theory IV: Class Field Theory](https://github.com/ZiyangZhu/Notes/files/8052247/CFT.pdf)** _Update: February 11, 2022_
+##### **[Algebraic Number Theory IV: Class Field Theory](https://github.com/ZiyangZhu/Notes/files/8393640/CFT.pdf)** _Update: April 01, 2022_
 Class field theory uses the arithmetic properties of a global field to determine all its Abelian extensions. There are many ways to prove it, we only introduce Tate's idea, and will not give serious proofs. This is the lecture note of the course "Class Field Theory and Reciprocal Law" at CNU, 2021.
 
-##### **[Algebraic Number Theory VI: Arithmetic Dynamics](https://github.com/ZiyangZhu/Notes/files/7701460/DS.pdf)** _Update: December 13, 2021_
+##### **[Algebraic Number Theory VI: Arithmetic Dynamics](https://github.com/ZiyangZhu/Notes/files/8393642/DS.pdf)** _Update: April 01, 2022_
 Dynamical system is a subject that studies the iteration by means of statistics, it also connects to the number theory. This note consists of four topics: ergodic theory, Oppenheim conjecture, entropies and geometric topology of moduli spaces. This is the lecture note of the course "Dynamical Systems" at CNU, 2021.
 
 ##### **[Introduction to Real Analysis](https://github.com/ZiyangZhu/Notes/files/7538541/RA.pdf)** _Update: June 22, 2021_
