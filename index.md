@@ -11,7 +11,7 @@ This note aims to introduce the representation theory of finite groups, includin
 ##### **[Algebraic Number Theory I: Galois Theory](https://github.com/ZiyangZhu/Notes/files/7538510/Galois.pdf)** _Update: August 25, 2020_
 This is a note to introduce Galois theory, including polynomial theory, the fundamental theorem and its applications, infinite Galois extensions and transcendental extensions. You can read it with the foundation of algebra and topology.
 
-##### **[Algebraic Number Theory II: The Arithmetic of Elliptic Curves](https://github.com/ZiyangZhu/Notes/files/7538520/EC.pdf)** _Update: June 22, 2021_
+##### **[Algebraic Number Theory II: Elliptic Curves and Modular Forms](https://github.com/ZiyangZhu/Notes/files/8780334/EC.pdf)** _Update: May 26, 2022_
 This note is the special introduction of "Riemann Surfaces",  it does not involve proof, but mainly introduces the concept of elliptic curves, modular forms, Mordell theorem, B-SD conjecture and other basic contents.
 
 ##### **[Algebraic Number Theory III: Tate's Thesis](https://github.com/ZiyangZhu/Notes/files/7701655/Tate.pdf)** _Update: December 13, 2021_
